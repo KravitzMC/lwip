@@ -1,6 +1,4 @@
-<h1>The lwIP TCP/IP implementation is to reduce the RAM usage. that's better than old technic.</h1>
-
-INTRODUCTION
+📡 INTRODUCTION
 
 lwIP is a small independent implementation of the TCP/IP protocol suite.
 
